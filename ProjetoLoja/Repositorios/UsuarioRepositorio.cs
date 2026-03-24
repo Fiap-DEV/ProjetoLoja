@@ -1,4 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
+using ProjetoLoja.Interfaces;
 using ProjetoLoja.Models;
 
 namespace ProjetoLoja.Repositorio

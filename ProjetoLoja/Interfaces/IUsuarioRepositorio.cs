@@ -1,6 +1,6 @@
 ﻿using ProjetoLoja.Models;
 
-namespace ProjetoLoja.Repositorio
+namespace ProjetoLoja.Interfaces
 {
     public interface IUsuarioRepositorio
     {
